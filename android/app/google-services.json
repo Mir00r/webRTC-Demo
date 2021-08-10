@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "95710453513",
+    "project_id": "web-rtc-demo-1654a",
+    "storage_bucket": "web-rtc-demo-1654a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95710453513:android:c6b3320ba208f4aa61fdd8",
+        "android_client_info": {
+          "package_name": "com.mir00r"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95710453513-90aqsvab575k1tmon9dtdvufnvmmgl12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6nYAmXzTQVWo7coQD9bz8V8q3YVx5oAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95710453513-90aqsvab575k1tmon9dtdvufnvmmgl12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
